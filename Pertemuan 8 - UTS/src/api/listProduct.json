@@ -1,0 +1,74 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "image": "https://m.media-amazon.com/images/I/71TUxq7OTTL._AC_SX679_.jpg",
+            "nama": "Samsung Galaxy S22 5G | Smartphone SM-S901E/DS, 8GB RAM, 256GB ROM, Pink Gold",
+            "harga": 15630000,
+            "stok": 15
+        },
+        {
+            "id": 2,
+            "image": "https://m.media-amazon.com/images/I/812DDJ278nL._AC_SX679_.jpg",
+            "nama": "Samsung Galaxy S22 Ultra 5G | Smartphone SM-S908E/DS, 12GB RAM, 256GB ROM, Burgundy",
+            "harga": 21900000,
+            "stok": 15
+        },
+        {
+            "id": 3,
+            "image": "https://m.media-amazon.com/images/I/81eIvfvn-vL._AC_SX679_.jpg",
+            "nama": "Samsung Galaxy S22 Ultra 5G | Smartphone SM-S908E/DS, 12GB RAM, 256GB ROM, Black",
+            "harga": 21900000,
+            "stok": 12
+        },
+        {
+            "id": 4,
+            "image": "https://m.media-amazon.com/images/I/31gH+fC4UFL._AC_SY300_SX300_.jpg",
+            "nama": "Samsung Galaxy Z Flip3 5G | 256GB Lavender",
+            "harga": 15780000,
+            "stok": 10
+        },
+        {
+            "id": 5,
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71G48FPKH1L.__AC_SX300_SY300_QL70_ML2_.jpg",
+            "nama": "Samsung SM-F711B Galaxy Z Flip 3 5G Android | Smartphone 8GB RAM (Black, 256GB)",
+            "harga": 18300000,
+            "stok": 9
+        },
+        {
+            "id": 6,
+            "image": "https://images-na.ssl-images-amazon.com/images/I/816xGeKghbL.__AC_SY300_SX300_QL70_ML2_.jpg",
+            "nama": "Samsung A53 5G | Smartphone SM-A536EZOHXSP, 8GB RAM, 256GB, Peach",
+            "harga": 8800000,
+            "stok": 12
+        },
+        {
+            "id": 7,
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51KD-YYgTHL.__AC_SY300_SX300_QL70_ML2_.jpg",
+            "nama": "Samsung Electronics Galaxy Z Fold 3 | Shockproof Smartphone Protector, US Version, White (EF-PF926TWEGUS)",
+            "harga": 824800,
+            "stok": 5
+        },
+        {
+            "id": 8,
+            "image": "https://m.media-amazon.com/images/I/71hMsWnSN2S._AC_UL320_.jpg",
+            "nama": "SAMSUNG SM-A226BZAHXSP Galaxy A22 5G Gray",
+            "harga": 4751000,
+            "stok": 8
+        },
+        {
+            "id": 9,
+            "image": "https://m.media-amazon.com/images/I/81IUZibgU7L._AC_UL320_.jpg",
+            "nama": "Samsung SM-X800NZABXSP Galaxy Tab S8 Plus WiFi, 8GB RAM, 256GB ROM, Gray",
+            "harga": 21367000,
+            "stok": 5
+        },
+        {
+            "id": 10,
+            "image": "https://m.media-amazon.com/images/I/51rcPWrF1xL._AC_UL320_.jpg",
+            "nama": "Samsung Galaxy Tab S6 Lite, 64GB WiFi Tablet - -P610 - S Pen Included (International Model) (Oxford Gray)",
+            "harga": 687900,
+            "stok": 7
+        }
+    ]
+}

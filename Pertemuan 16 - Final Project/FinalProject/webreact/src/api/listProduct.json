@@ -1,0 +1,46 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "image": "https://m.media-amazon.com/images/I/81kYzmHfb+L._AC_UY327_FMwebp_QL65_.jpg",
+            "nama": "Oster Convection Countertop and Toaster Oven | French Door and Digital Controls | Stainless Steel, Extra Large",
+            "harga": 5999000,
+            "stok": 8
+        },
+        {
+            "id": 2,
+            "image": "https://m.media-amazon.com/images/I/71Hddpi1-wL._AC_UY327_FMwebp_QL65_.jpg",
+            "nama": "Hamilton Beach Countertop Toaster Oven & Pizza Maker Large 4-Slice Capacity, Stainless Steel (31401)",
+            "harga": 20999000,
+            "stok": 3
+        },
+        {
+            "id": 3,
+            "image": "https://m.media-amazon.com/images/I/81qdSHa7CWL._AC_UY327_FMwebp_QL65_.jpg",
+            "nama": "COMFEE' Toaster Oven Countertop, 4-Slice, Compact Size, Easy to Control with Timer-Bake-Broil-Toast Setting, 1000W, Black (CFO-BB101)",
+            "harga": 15999000,
+            "stok": 5
+        },
+        {
+            "id": 4,
+            "image": "https://m.media-amazon.com/images/I/71L08j1yhSL._AC_UY327_FMwebp_QL65_.jpg",
+            "nama": "Amazon Basics 1500 Watt Large Capacity Air Oven With Accessories",
+            "harga": 8999000,
+            "stok": 6
+        },
+        {
+            "id": 5,
+            "image": "https://m.media-amazon.com/images/I/81GfrNisjZL._AC_UY327_FMwebp_QL65_.jpg",
+            "nama": "Toshiba EM925A5A-BS Microwave Oven with Sound On/Off ECO Mode and LED Lighting, 0.9 Cu Ft/900W, Black Stainless Steel",
+            "harga": 5399000,
+            "stok": 5
+        },
+        {
+            "id": 6,
+            "image": "https://m.media-amazon.com/images/I/81GfrNisjZL._AC_UY327_FMwebp_QL65_.jpg",
+            "nama": "Farberware Classic FMO07AHTBKJ 0.7 Cu. Ft. 700-Watt Microwave Oven with LED Lighting, Brushed Stainless Steel",
+            "harga": 2299000,
+            "stok": 12
+        }
+    ]
+}

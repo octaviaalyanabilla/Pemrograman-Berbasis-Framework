@@ -1,0 +1,161 @@
+{
+    "categories": [
+      {
+        "id": 1,
+        "nama": "Headphone Kabel"
+      },
+      {
+        "id": 2,
+        "nama": "Headphone Wireless"
+      }
+    ],
+    "aboutus": [
+      {
+        "id": 1,
+        "namaResto": "Eco Green Restaurant",
+        "alamatResto": "Jl. Ikan Kakap, Kota Malang, Jawa Timur",
+        "noTelpResto": "08123456789"
+      }
+    ],
+    "contactus": [
+      {
+        "id": 1,
+        "nama": "fauzi",
+        "email": "ahmadnurfauzi0909ok@gmail.com",
+        "subject": "example",
+        "message": "good job"
+      },
+      {
+        "id": 2,
+        "nama": "Ahmad Nur Fauzi",
+        "email": "ahmadnurfauzi0909ok@gmail.com",
+        "subject": "Good",
+        "message": "123"
+      },
+      {
+        "id": 3,
+        "nama": "Naila Nabila",
+        "email": "nailanabilaaaaaa@gmail.com",
+        "subject": "Reservasi",
+        "message": "Reservasi pada Hari Senin, 18 April 2022 jam 18.00"
+      }
+    ],
+    "products": [
+      {
+        "id": 1,
+        "kode": "K-01",
+        "nama": "Onikuma K9 Pink Headphone Cat Ear",
+        "harga": 385000,
+        "is_ready": true,
+        "gambar": "http://sc04.alicdn.com/kf/H7447feab7dd541e69af8735d8610acedQ.jpg",
+        "stok": "5",
+        "deskripsi": "Headphone category: gaming headset, headphonesPlug type: USB Plug and USB",
+        "category": {
+          "id": 1,
+          "nama": "Headphone Kabel"
+        }
+      },
+      {
+        "id": 2,
+        "kode": "K-02",
+        "nama": "Onikuma K9 Blue Cute Cat Ear Headphone",
+        "harga": 400000,
+        "is_ready": true,
+        "gambar": "https://my-test-11.slatic.net/p/c48b06595d2a4bcc695fe3b6c683b4ae.jpg",
+        "stok": "3",
+        "deskripsi": "Headphone category: gaming headset, headphonesPlug type: USB Plug and USB",
+        "category": {
+          "id": 1,
+          "nama": "Headphone Kabel"
+        }
+      },
+      {
+        "id": 3,
+        "kode": "K-03",
+        "nama": "Axent Wear Ear Cat Headphone",
+        "harga": 1900000,
+        "is_ready": true,
+        "gambar": "https://i.pcmag.com/imagery/reviews/004oT4QUohMfXA3HekJtDBX-1..1569469943.jpg",
+        "stok": "7",
+        "deskripsi": "External cat ear speakers for sharing music, Independently controlled LED accent lights",
+        "category": {
+          "id": 1,
+          "nama": "Headphone Kabel"
+        }
+      },
+      {
+        "id": 4,
+        "kode": "K-04",
+        "nama": "Zealot wireless Zn2388",
+        "harga": 530000,
+        "is_ready": true,
+        "gambar": "https://ae01.alicdn.com/kf/HTB1cM0rbnHuK1RkSndVq6xVwpXaS/Wireless-Bluetooth-Headphone-HiFi-Stereo-Headset-Bluetooth-Earphone-With-Microphone-FM-Radio-Micro-SD-Card-Play.jpg",
+        "stok": "6",
+        "deskripsi": "Bisa radio fm, Ada layar LCD, Bisa MP3 slot TF",
+        "category": {
+          "id": 2,
+          "nama": "Headphone Wireless"
+        }
+      },
+      {
+        "id": 5,
+        "kode": "K-05",
+        "nama": "Samsung Level U Wireless Headphones",
+        "harga": 250000,
+        "is_ready": true,
+        "gambar": "https://blogunik.com/wp-content/uploads/2020/07/Headset-Bluetooth-Terbaik-Dibawah-1-Juta-Samsung-Level-U-Wireless-Headphones.jpg",
+        "stok": "3",
+        "deskripsi": "Respon Frekuensi Sampai dengan 20Hz-20KHZ, Wireless Vs 4.2, Jarak Operasi 10m, NIlai Daya 2 x 20mW",
+        "category": {
+          "id": 2,
+          "nama": "Headphone Wireless"
+        }
+      },
+      {
+        "id": 6,
+        "kode": "K-06",
+        "nama": "Beats Solo3 Wireless Satin Gold",
+        "harga": 5563586,
+        "is_ready": true,
+        "gambar": "https://www.ubuy.co.id/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNzFpZzZQRFN0Y0wuX0FDX1NMMTUwMF8uanBn.jpg",
+        "stok": "9",
+        "deskripsi": "Features the Apple W1 chip, Class 1 wireless Bluetooth connectivity, With up to 40 hours of battery life",
+        "category": {
+          "id": 2,
+          "nama": "Headphone Wireless"
+        }
+      },
+      {
+        "id": 7,
+        "kode": "K-07",
+        "nama": "Sonic Gear Airphone V",
+        "harga": 285000,
+        "is_ready": true,
+        "gambar": "https://www.geewiz.co.za/164425-large_default/sonicgear-earpump-studio-v-bluetooth-headphones-greyblue.jpg",
+        "stok": "10",
+        "deskripsi": "Wireless distance up to 10 meters, 300mAh lithium battery, Driver size:40mm- Frequency response:20Hz-20KHz",
+        "category": {
+          "id": 2,
+          "nama": "Headphone Wireless"
+        }
+      
+      }
+    ],
+    "keranjangs": [
+      
+    ],
+    "pesanans": [
+      
+    ],
+    "users": [
+      {
+        "id": 2,
+        "name": "Jason Andreas Van Abble",
+        "username": "java",
+        "phone_number": "0822468013579",
+        "address": "Jl. Kita Tak Satu Tujuan",
+        "password": "12345678"
+      }
+     
+    ]
+  }
